@@ -1,0 +1,9 @@
+flask
+scikit-learn
+xgboost
+requests
+pyzbar
+Pillow
+mail-parser
+beautifulsoup4
+PyPDF2
